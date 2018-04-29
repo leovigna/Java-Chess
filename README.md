@@ -1,5 +1,5 @@
-### CIS 120 Homework 9: Chess
-
+### Java Chess
+A simple java chess game.
 ## The Chess Game
 
 *   Run GameGUI.
